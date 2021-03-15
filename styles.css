@@ -16,7 +16,7 @@ border: 2px solid #000 !important;
 
 background-color:#999999; 
 
-border:2px solid #000; 
+border:2px solid #e4af34; 
 
 border-radius: 0;
 
@@ -38,7 +38,7 @@ margin:0 -15px !important;
 
 .navbar-brand h1{
 
-color: #fc29e;
+color:#000;
 
 font-size: 1.5em;
 
@@ -88,7 +88,7 @@ border-bottom:0;
 
 #nav-list li a{
 
-color:#fc29e;
+color:#000;
 
 font-weight: 600;
 
